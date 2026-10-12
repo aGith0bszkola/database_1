@@ -1,0 +1,21 @@
+{
+  "notatki":[
+    {
+        "Tytul":"Harry Potter i Kamień Filozoficzny",
+        "Tresc":"Wprowadza Harry'ego, Hogwart i podstawowe zasady świata magii",
+        "Data_Publickaji":1997
+    },
+    {
+      "Tytul":"Harry Potter i Komnata Tajemnic",
+      "Tresc":"Rozwija szkolną tajemnicę i podbija mroczniejszy klimat.",
+      "Data_Publickaji":1998
+    },
+    {
+      "Tytul":"Harry Potter i więzień Azkabanu",
+      "Tresc":"Wyraźnie przesuwa serię w stronę dojrzalszej opowieści.",
+      "Data_Publikcaji":1999
+    }
+
+  ]
+  
+}
