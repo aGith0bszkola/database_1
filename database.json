@@ -3,16 +3,19 @@
         "Tytul":"Harry Potter i Kamień Filozoficzny",
         "Tresc":"Wprowadza Harry'ego, Hogwart i podstawowe zasady świata magii",
         "Data_Publikcaji":1997
+        "link_Do_Obrazku":"https://www.bing.com/th?id=OPEC.Ub0A%2fwdjotZrsg474C474&o=5&pid=21.1&w=140&h=200&qlt=100&dpr=0,9&o=2&c=8&pcl=f5f5f5"
     },
     {
       "Tytul":"Harry Potter i Komnata Tajemnic",
       "Tresc":"Rozwija szkolną tajemnicę i podbija mroczniejszy klimat.",
       "Data_Publikcaji":1998
+      "link_Do_Obrazku":"https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/58/5832312/Ksiazka-dla-mlodziezy-Harry-Potter-i-Ksiaze-Polkrwi-okladka.jpg"
     },
     {
       "Tytul":"Harry Potter i więzień Azkabanu",
       "Tresc":"Wyraźnie przesuwa serię w stronę dojrzalszej opowieści.",
       "Data_Publikcaji":1999
+      "link_Do_Obrazku":"https://m.media-amazon.com/images/I/81sEh4S3kKL._SL1500_.jpg"
     }
 
   ]
